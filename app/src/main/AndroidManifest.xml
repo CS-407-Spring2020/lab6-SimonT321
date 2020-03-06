@@ -19,7 +19,7 @@
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyBTIdgBpTI2YupqAn5JdRj1Hx_i04yrJho"/>
+           
 
         <activity android:name=".MainActivity" >
             <intent-filter>
